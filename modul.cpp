@@ -5,7 +5,7 @@
 #include "modul.h"
 using namespace std;
 
-void menu() {
+void Menu() {
       NumericRing ring;
     string filename;
     while (true) {

@@ -90,6 +90,6 @@ public:
     }
     bool isEmpty() const { return ring.empty(); }
 };
-void menu();
+void Menu();
 
 #endif 

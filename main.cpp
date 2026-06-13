@@ -5,6 +5,6 @@ using namespace std;
 
 int main() {
     SetConsoleOutputCP(CP_UTF8);
-    menu();
+    Menu();
     return 0;
 }
